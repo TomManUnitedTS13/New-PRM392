@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_choose_service"
+        android:title="Chọn dịch vụ"/>
+
+    <item
+        android:id="@+id/nav_haircut_history"
+        android:title="Lịch sử cắt tóc"/>
+
+    <item
+        android:id="@+id/nav_loyal_customers"
+        android:title="Khách hàng thân thiết"/>
+
+</menu>
